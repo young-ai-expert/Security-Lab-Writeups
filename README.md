@@ -31,6 +31,6 @@ Each write-up contains:
 ## Directory Index
 *(Note: I will update this section with direct links to my PDF reports as I upload them.)*
 
-* [TryHackMe: Basic Pentesting](./Basic_Pentesting_Report.pdf)
+* (./XPath_Injection_Authentication_Bypass.pdf)
 * [PortSwigger: SQL Injection](./SQL_Injection_Analysis.pdf)
-* *(Add more links to your specific files here)*
+* 
