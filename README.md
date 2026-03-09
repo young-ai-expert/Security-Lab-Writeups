@@ -31,6 +31,6 @@ Each write-up contains:
 ## Directory Index
 *(Note: I will update this section with direct links to my PDF reports as I upload them.)*
 
-* (./XPath_Injection_Authentication_Bypass.pdf)
+* [](./XPath_Injection_Authentication_Bypass.pdf)
 * [PortSwigger: SQL Injection](./SQL_Injection_Analysis.pdf)
 * 
